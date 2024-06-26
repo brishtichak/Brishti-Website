@@ -26,10 +26,10 @@ const PPage = () => {
         </ul>
 
         <h3 className='text-center'>GitHub: </h3>
-        <p className='text-center'>add link </p>
+        <a href = "https://github.com/brishtichak" className='text-center underline'> <p>brishtichak's GitHub</p></a>
 
         <h3 className='text-center'>Websites: </h3>
-        <p className='text-center'>add links </p>
+        <a href = "https://brishti-website.vercel.app/" className='text-center underline'> <p>My Personal Website</p></a>
 
         <h3 className='text-center'>Research: </h3>
         <ul className="ulnoindent text-center">
