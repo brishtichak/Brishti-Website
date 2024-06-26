@@ -116,7 +116,7 @@ ul{
   bottom: -100px;
 }
 
-.centered {
+.titletext {
   position: absolute;
   top: 50%;
   left: 50%;
@@ -176,7 +176,7 @@ button:hover {
 .footer {
   margin-top: 5%;
   padding-top: 1%;
-  padding-bottom: 1%;
+  padding-bottom: 1.5%;
   background-color: hsl(0, 0%, 10%);
   border-top: dotted rgba(255, 255, 255, 0.487);
 }
@@ -209,13 +209,21 @@ iframe {
   filter: grayscale(100%);
 }
 
+.edimage2 {
+  padding-top: 0.5%;
+  width: 60%;
+  float: center;
+  padding-right: 3%;
+  filter: grayscale(100%);
+}
+
 .edtext {
   padding-left: 3%;
   width: 40%;
 }
 
 .edtext2 {
-  padding-left: 8%;
+  padding-left: 6%;
   width: 40%;
   padding-bottom: 1.5%
 }
@@ -230,7 +238,7 @@ iframe {
 }
 
 .edtext2 p {
-  padding-left: 14%;
+  padding-left: 13%;
   padding-top: 2%
 }
 

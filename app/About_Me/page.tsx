@@ -11,7 +11,7 @@ const abPage = () => {
             <h2>About Me</h2>
             
             <p> I love to read, write, and learn. Ever since I was little, 
-                I've enjoyed studying the world around me, and I was fascinated 
+                I&apos;ve enjoyed studying the world around me, and I was fascinated 
                 by the many things I could find in the books and documentaries I 
                 watched. Analyzing characters and stories became one of my favorite
                 hobbies, and I grealy enjoyed learning about different subjects,

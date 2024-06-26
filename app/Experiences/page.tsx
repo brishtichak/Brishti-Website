@@ -30,12 +30,12 @@ const EPage = () => {
           <li>Worked with elementary school students on their math, 
               reading, and writing skills and encouraged their capacity to 
               grow as students </li>
-          <li>Communicated with parents regarding students' progress and 
+          <li>Communicated with parents regarding students&apos; progress and 
               adjusted plans based on feedback and the different strengths 
               and weaknesses of each individual student </li>
         </ul>
         
-        <h3><em>Research Assistant,</em> University of Virginia's College 
+        <h3><em>Research Assistant,</em> University of Virginia&apos;s College 
         at Wise, January 2023 - May 2023 </h3>
         <ul className={"list-disc list-inside"}>
           <li>Documented the research process and aided the professor with inventory </li>

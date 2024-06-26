@@ -46,7 +46,7 @@ const edPage = () => {
                         Graduation: June 2022 <br></br>
                         GPA: 4.49 </p>
                 </div>
-                <div className ='edimage'>
+                <div className ='edimage2'>
                     <img src="https://imagescdn.homes.com/i2/zgYPocioMVFR_Q4ROH1pLYJouVGnPAn9dxjn8gmjKco/111/rock-ridge-high-school-ashburn-va-3-schoolphoto.jpg?p=1" alt="Rock Ridge High School"></img>
                 </div>
             </div>
