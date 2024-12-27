@@ -35,6 +35,8 @@ const edPage = () => {
                             <li>Introduction to Data Science </li>
                             <li>Writing and Critical Inquiry </li>
                             <li>Applied Linear Algebra </li>
+                            <li>Data Ethics </li>
+                            <li>Computer Systems and Organizations </li>
                         </ul> 
                 </div>
             </div>
