@@ -37,7 +37,7 @@ const abPage = () => {
                 and in AI training. There are so many things software and AI 
                 models are capable of, and I truly enjoy using these tools 
                 to develop different solutions and to help us make our lives 
-                and research easier. I've also take an an interest in data science, 
+                and research easier. I have also take an an interest in data science, 
                 as it allows me to work with information and models, and to work 
                 with more humanities-oriented subjects, such as ethics and data 
                 visualization. </p>
